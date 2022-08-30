@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "harish",
+      "email": "harish@gmail.com",
+      "Address": "Uk",
+      "contact": 78954122,
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "chandru",
+      "email": "chandru@gmail.com",
+      "Address": "london",
+      "contact": 78954122,
+      "status": "In-Active"
+    },
+    {
+      "id": 3,
+      "name": "Ram",
+      "email": "Ram@gmail.com",
+      "Address": "france",
+      "contact": 78954122,
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "name": "sangu",
+      "email": "sangu@gmail.com",
+      "Address": "london",
+      "contact": 78954122,
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "satish",
+      "email": "satish@gmail.com",
+      "Address": "africa",
+      "contact": 78954122,
+      "status": "In-Active"
+    },
+    {
+      "id": 6,
+      "name": "charan",
+      "email": "charan@gmail.com",
+      "Address": "koriya",
+      "contact": 78954122,
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "mangu",
+      "email": "mangu@gmail.com",
+      "Address": "london",
+      "contact": 78954122,
+      "status": "In-Active"
+    },
+
+    {
+      "id": 8,
+      "name": "santoshi",
+      "email": "santoshi@gmail.com",
+      "Address": "India",
+      "contact": 78954122,
+      "status": "Active"
+    },
+    {
+      "id": 9,
+      "name": "shelli",
+      "email": "shelli@gmail.com",
+      "Address": "America",
+      "contact": 78954122,
+      "status": "In-Active"
+    },
+    {
+      "id": 10,
+      "name": "pooja",
+      "email": "pooja@gmail.com",
+      "Address": "India",
+      "contact": 78954122,
+      "status": "Active"
+    }
+  ]
+}
